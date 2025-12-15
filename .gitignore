@@ -1,0 +1,5 @@
+# Ignore all data files and folders
+data/
+
+models/random_forest_3m.pkl
+models/random_forest_6m.pkl
